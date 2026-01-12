@@ -13,4 +13,4 @@
     - Greedy Best-First Search, A\*, IDA\*
 ### 03. Adversarial Search
 - Minimax Search, Alpha-Beta Pruning, MCTS
-### 04. 
+### 04. Constraint Satisfaction Problems
